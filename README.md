@@ -1,1 +1,1 @@
-# Implementations of data science algorthms in python
+# Implementations of data science algorithms in python
