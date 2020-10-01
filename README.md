@@ -2,7 +2,7 @@
 
 ## Table of contents 
 
-### Intro to Data Science course 
+### Intro to Data Science course (Введение в машинное обучение от Яндекс) 
 * Implementations of assignments from [Intro to Data Science course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome)
 * Data from [Intro to Data Science course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome)
 
