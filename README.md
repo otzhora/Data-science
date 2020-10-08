@@ -13,6 +13,9 @@
 * Decision tree
 * K-nearest neighbors 
 * Linear models
+* Linear regression (L2 regularization, Ridge) on text data 
 * Logistic Regression (my implementation)
-* Support vector machine
+* Metrics examples 
 * Pandas
+* Principal components analysis 
+* Support vector machine
