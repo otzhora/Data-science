@@ -155,3 +155,5 @@ ipython_config.py
 
 .idea/
 res.txt
+data/salary-test-mini.csv
+data/salary-train.csv
