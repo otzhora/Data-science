@@ -158,6 +158,7 @@ res.txt
 data/salary-test-mini.csv
 data/salary-train.csv
 data/gbm-data.csv
+data/dota/*
 
 
 *.icloud
