@@ -17,6 +17,7 @@
 * Linear regression (L2 regularization, Ridge) on text data 
 * Logistic Regression (my implementation)
 * Metrics examples 
+* Numpy
 * Pandas
 * Principal components analysis 
 * Support vector machine
