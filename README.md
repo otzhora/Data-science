@@ -5,6 +5,7 @@
 ### Intro to Data Science course (Введение в машинное обучение от Яндекс) 
 * Implementations of assignments from [Intro to Data Science course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome)
 * Data from [Intro to Data Science course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome)
+* Code from book [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Algorithms 
 * Simple logistic regression for binary classification (might work on multi-label, but I haven't tested it). I implemented both regression and gradient descent (with L2 regularization).
@@ -16,6 +17,7 @@
 * Linear regression (L2 regularization, Ridge) on text data 
 * Logistic Regression (my implementation)
 * Metrics examples 
+* Numpy
 * Pandas
 * Principal components analysis 
 * Support vector machine
