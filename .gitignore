@@ -2,6 +2,7 @@
 ### Python template
 # Byte-compiled / optimized / DLL files
 .vim
+.vscode
 __pycache__/
 *.py[cod]
 *$py.class
