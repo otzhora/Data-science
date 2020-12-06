@@ -4,10 +4,15 @@ from tqdm.notebook import tqdm
 from src.math import sigmoid
 
 
-def gradient_descent(X: np.array, y: np.array, lr: float = 0.1,
-                     C: float = 0, epochs: int = 10000, eps: float = 1e-5,
-                     initial_approximation: np.array = None) \
-        -> np.array:
+def gradient_descent(
+    X: np.array,
+    y: np.array,
+    lr: float = 0.1,
+    C: float = 0,
+    epochs: int = 10000,
+    eps: float = 1e-5,
+    initial_approximation: np.array = None,
+) -> np.array:
     """
     Gradient descent for logistic regression. I assume we had two classes
     :param X: features matrix
