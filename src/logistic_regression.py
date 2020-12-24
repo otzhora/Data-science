@@ -1,7 +1,7 @@
 import numpy as np
 from tqdm.notebook import tqdm
 
-from src.math import sigmoid
+from src.utils import sigmoid
 
 
 def gradient_descent(
