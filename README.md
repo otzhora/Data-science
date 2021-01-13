@@ -1,7 +1,5 @@
 # Implementations of data science algorithms in python
 
-## Table of contents 
-
 ### Intro to Data Science course (Введение в машинное обучение от Яндекс) 
 * Implementations of assignments from [Intro to Data Science course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome)
 * Data from [Intro to Data Science course](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie/home/welcome)
@@ -10,8 +8,8 @@
 * Code from book [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### dlcourse.ai
-* Code from [dlcourse.ai](dlcourse.ai)
-* Assignments from [dlcourse.ai](dlcourse.ai)
+* Code from [dlcourse.ai](https://dlcourse.ai)
+* Assignments from [dlcourse.ai](https://dlcourse.ai)
 
 ### Algorithms 
 * Simple logistic regression for binary classification. I implemented gradient descent with L2 regularization.
